@@ -52,3 +52,4 @@ Rename window
 ```
 
 ## You Can use your mouse to click and switch pane as well!
+![image](https://github.com/breezekiller789/Tmux-Config-File/blob/master/Tmux_Demo_Vim_Like.gif)
